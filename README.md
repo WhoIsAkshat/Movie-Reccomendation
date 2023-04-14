@@ -40,5 +40,5 @@ Install the following:
 
 ## Screenshots
 
-![website](https://user-images.githubusercontent.com/55439384/232133905-0b982c5a-4cc2-47f8-8281-34ee3705c13c.jpg)
+![website](https://user-images.githubusercontent.com/55439384/232134262-a13c9cd5-8f09-43d5-a86a-45bd269d4abe.jpg)
 
