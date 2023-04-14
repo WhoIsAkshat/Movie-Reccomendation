@@ -33,6 +33,20 @@ Install the following:
 - Jupyter Notebook
 - VS Code
 
+## Roadmap
+
+- Install the Dataset.
+- Open a new project file in Jupyter and extract the .csv files into that folder
+- Copy and run the code 1-by-1 segment.
+- There is a comment in one segment where it is asked to repeat some steps till that point again.
+- Open a venv in Pycharm
+- Install the libraries mentioned
+- Copy the code in app.py 
+- Copy the pickle(.pkl) formed in the previous stage into this folder.
+- Then run the app.py by the following command:
+```terminal
+streamlit run app.py
+```
 
 ## Screenshots
 
