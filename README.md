@@ -40,5 +40,5 @@ Install the following:
 
 ## Screenshots
 
-![website.jpeg](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![website](https://user-images.githubusercontent.com/55439384/232133905-0b982c5a-4cc2-47f8-8281-34ee3705c13c.jpg)
 
