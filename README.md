@@ -1,5 +1,5 @@
 
-# Movie Reccomendation System
+# Movie Recommendation System
 Select a movie from a drop-down menu and the system generates Top 5 Recommendations for the same.
 
 
